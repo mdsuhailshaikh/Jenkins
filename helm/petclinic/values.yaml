@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: cloudworldt/petclinic
+  repository: sshaikh7788/petclinic
   tag: ${BUILD_NUMBER}
   pullPolicy: IfNotPresent
 
